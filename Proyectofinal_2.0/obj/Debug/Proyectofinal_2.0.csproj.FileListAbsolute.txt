@@ -1,0 +1,80 @@
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe.config
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csprojResolveAssemblyReference.cache
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.AdministradorForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.CajeroForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ClienteForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.LoginForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.PanelForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ProductosForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.RegistroForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.UsuariosForm.resources
+c:\users\miche\onedrive\documentos\visual studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csproj.GenerateResource.Cache
+C:\Users\miche\OneDrive\Documentos\Visual Studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe
+C:\Users\miche\OneDrive\Documentos\Visual Studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.pdb
+C:\Users\miche\OneDrive\Documentos\Visual Studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.Properties.Resources.resources
+C:\Users\miche\OneDrive\Documentos\Visual Studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.exe
+C:\Users\miche\OneDrive\Documentos\Visual Studio 2015\Projects\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe.config
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csprojResolveAssemblyReference.cache
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.AdministradorForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.CajeroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ClienteForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.LoginForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.PanelForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ProductosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.Properties.Resources.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.RegistroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.UsuariosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csproj.GenerateResource.Cache
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\MySql.Data.dll
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe.config
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.pdb
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.AdministradorForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.CajeroForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ClienteForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.LoginForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.PanelForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ProductosForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.Properties.Resources.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.RegistroForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.UsuariosForm.resources
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csproj.GenerateResource.cache
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.exe
+C:\Users\rauld\Downloads\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe.config
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csprojResolveAssemblyReference.cache
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.AdministradorForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.CajeroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ClienteForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.LoginForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.PanelForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ProductosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.Properties.Resources.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.RegistroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.UsuariosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyectofinal_2.0\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csproj.GenerateResource.Cache
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe.config
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.exe
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\bin\Debug\Proyectofinal_2.0.pdb
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csprojResolveAssemblyReference.cache
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.AdministradorForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.CajeroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ClienteForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.LoginForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.PanelForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.ProductosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.Properties.Resources.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.RegistroForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2._0.UsuariosForm.resources
+C:\Users\leota\OneDrive\Documentos\Escritorio\Proyecto funcional ventas\Proyectofinal_2.0\Proyectofinal_2.0\obj\Debug\Proyectofinal_2.0.csproj.GenerateResource.Cache
