@@ -141,7 +141,25 @@ namespace Proyectofinal_2._0
             }
         }
 
+        private void CBEstado_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
+        }
 
+        private void CBrol_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
+

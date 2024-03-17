@@ -47,10 +47,10 @@
             // 
             // login_btn
             // 
-            this.login_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(7)))), ((int)(((byte)(99)))), ((int)(((byte)(102)))));
+            this.login_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(209)))), ((int)(((byte)(62)))));
             this.login_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.login_btn.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login_btn.ForeColor = System.Drawing.Color.White;
+            this.login_btn.ForeColor = System.Drawing.Color.Black;
             this.login_btn.Location = new System.Drawing.Point(426, 384);
             this.login_btn.Name = "login_btn";
             this.login_btn.Size = new System.Drawing.Size(142, 37);
@@ -134,7 +134,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(7)))), ((int)(((byte)(99)))), ((int)(((byte)(102)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(139)))), ((int)(((byte)(194)))));
             this.panel1.Controls.Add(this.label6);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.label5);
@@ -149,7 +149,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(118, 253);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(103, 28);
@@ -158,7 +158,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.pictureBox1.Location = new System.Drawing.Point(100, 78);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(143, 157);
@@ -170,20 +170,21 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(77, 384);
+            this.label5.ForeColor = System.Drawing.Color.Black;
+            this.label5.Location = new System.Drawing.Point(74, 384);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(190, 23);
             this.label5.TabIndex = 9;
             this.label5.Text = "Create una cuenta";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // login_registerbtn
             // 
-            this.login_registerbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(7)))), ((int)(((byte)(99)))), ((int)(((byte)(102)))));
+            this.login_registerbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(193)))), ((int)(((byte)(255)))), ((int)(((byte)(114)))));
             this.login_registerbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.login_registerbtn.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login_registerbtn.ForeColor = System.Drawing.Color.White;
-            this.login_registerbtn.Location = new System.Drawing.Point(12, 421);
+            this.login_registerbtn.ForeColor = System.Drawing.Color.Black;
+            this.login_registerbtn.Location = new System.Drawing.Point(12, 410);
             this.login_registerbtn.Name = "login_registerbtn";
             this.login_registerbtn.Size = new System.Drawing.Size(304, 37);
             this.login_registerbtn.TabIndex = 8;
@@ -195,6 +196,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(665, 484);
             this.Controls.Add(this.login_btn);
             this.Controls.Add(this.login_showPass);

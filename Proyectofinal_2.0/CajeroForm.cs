@@ -177,5 +177,33 @@ namespace Proyectofinal_2._0
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEfectivo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
+
+      

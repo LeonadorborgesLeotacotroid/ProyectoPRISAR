@@ -12,7 +12,7 @@ namespace Proyectofinal_2._0
         public MySqlConnection conexion()
         {
             string servidor = "localhost";
-            string bd = "prisar_db";
+            string bd = "prisar";
             string usuario = "root"; //Cambiar Usuario de gestor :v
             string password = "";
 

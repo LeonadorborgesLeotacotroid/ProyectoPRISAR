@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
 using MySql.Data.MySqlClient;
 
 namespace Proyectofinal_2._0
 {
     class Ctrl_Venta : Conexion
     {
+        private static int folioActual = 1; // Variable estática para el folio
+
         public List<Ventas> Consulta()
         {
             List<Ventas> lista = new List<Ventas>();
             //
-            string sql = "SELECT Id_venta, Id_producto, Cantidad, Subtotal FROM ventas";
+            string sql = "SELECT Id_venta, Id_producto, Cantidad, Subtotal, Folio FROM ventas";
 
             try
             {
@@ -27,6 +28,7 @@ namespace Proyectofinal_2._0
                     venta.Id_producto1 = int.Parse(reader.GetString(1));
                     venta.Cantidad1 = int.Parse(reader.GetString(2));
                     venta.Subtotal1 = double.Parse(reader.GetString(3));
+                    venta.Folio1 = int.Parse(reader.GetString(4));
                     lista.Add(venta);
                 }
 
@@ -44,7 +46,7 @@ namespace Proyectofinal_2._0
         {
             bool exito = false;
 
-            string sqlInsertarVenta = "INSERT INTO ventas (Id_producto, Cantidad, Subtotal, Folio) VALUES ('" + venta.Id_producto1 + "', '" + venta.Cantidad1 + "', '" + venta.Subtotal1 + "', '" + Configuracion.FolioActual + "')";
+            string sqlInsertarVenta = "INSERT INTO ventas (Id_producto, Cantidad, Subtotal, Folio) VALUES ('" + venta.Id_producto1 + "', '" + venta.Cantidad1 + "', '" + venta.Subtotal1 + "', '" + folioActual + "')";
             string sqlActualizarProductos = "UPDATE productos SET Stock = Stock - " + venta.Cantidad1 + " WHERE Id_producto = " + venta.Id_producto1;
 
             try
@@ -52,7 +54,6 @@ namespace Proyectofinal_2._0
                 MySqlConnection conexionBD = base.conexion();
                 conexionBD.Open();
 
-                // Inicia una transacción para garantizar que ambas consultas se ejecuten correctamente o ninguna
                 MySqlTransaction transaccion = conexionBD.BeginTransaction();
 
                 MySqlCommand comandoInsertar = new MySqlCommand(sqlInsertarVenta, conexionBD);
@@ -61,17 +62,10 @@ namespace Proyectofinal_2._0
                 comandoInsertar.ExecuteNonQuery();
                 comandoActualizarProductos.ExecuteNonQuery();
 
-                // Si las dos consultas se ejecutaron correctamente, se realiza el commit de la transacción
                 transaccion.Commit();
 
                 conexionBD.Close();
                 exito = true;
-
-                // Actualizar el folio actual en la configuración
-                Configuracion.FolioActual++;
-                // Guardar el folio actual en la configuración de la aplicación
-                Properties.Settings.Default["FolioActual"] = Configuracion.FolioActual;
-                Properties.Settings.Default.Save();
             }
             catch (MySqlException ex)
             {
@@ -79,6 +73,12 @@ namespace Proyectofinal_2._0
             }
 
             return exito;
+        }
+
+        public static int FolioActual
+        {
+            get { return folioActual; }
+            set { folioActual = value; }
         }
     }
 }

@@ -13,6 +13,7 @@ namespace Proyectofinal_2._0
         private double Precio;
         private string Stock;
         private string Disponibilidad;
+        private bool Eliminado;
 
         public int Id_producto1
         {
@@ -78,5 +79,12 @@ namespace Proyectofinal_2._0
                 Disponibilidad = value;
             }
         }
+
+        public bool Eliminado1 // Cambiado a mayúscula para seguir convención de nombres
+        {
+            get { return Eliminado; }
+            set { Eliminado = value; }
+        }
+
     }
 }

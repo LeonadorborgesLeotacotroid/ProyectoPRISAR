@@ -25,37 +25,43 @@ namespace Proyectofinal_2._0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            PanelForm panelform = new PanelForm();
-            panelform.Show();
+            AbrirForm(new PanelForm());
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            CajeroForm cajeroform = new CajeroForm();
-            cajeroform.Show();
+            AbrirForm(new CajeroForm());
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            ProductosForm productosform = new ProductosForm();
-            productosform.Show();
+            AbrirForm(new ProductosForm());
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            ClienteForm clienteform = new ClienteForm();
-            clienteform.Show();
+            AbrirForm(new ClienteForm());
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            UsuariosForm usuariosform = new UsuariosForm();
-            usuariosform.Show();
+            AbrirForm(new UsuariosForm());
         }
 
         private void panel3_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+        private void AbrirForm(object formnuevo)
+        {
+            if (this.panelContenedor.Controls.Count > 0)
+                this.panelContenedor.Controls.RemoveAt(0);
+            Form fc = formnuevo as Form;
+            fc.TopLevel = false;
+            fc.Dock = DockStyle.Fill;
+            this.panelContenedor.Controls.Add(fc);
+            this.panelContenedor.Tag = fc;
+            fc.Show();
         }
     }
 }

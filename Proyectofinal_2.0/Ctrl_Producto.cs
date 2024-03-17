@@ -14,11 +14,11 @@ namespace Proyectofinal_2._0
 
             if (dato == null)
             {
-                sql = "SELECT Id_producto, Nombre, Precio, Stock, Disponibilidad FROM productos ORDER BY Stock ASC";
+                sql = "SELECT Id_producto, Nombre, Precio, Stock, Disponibilidad FROM productos WHERE Eliminado = 0 ORDER BY Stock ASC";
             }
             else
             {
-                sql = "SELECT Id_producto, Nombre, Precio, Stock, Disponibilidad FROM productos WHERE Nombre LIKE '%" + dato + "%' OR Precio LIKE '%" + dato + "%' OR Stock LIKE '%" + dato + "%' OR Disponibilidad LIKE '%" + dato + "%' ORDER BY Stock ASC";
+                sql = "SELECT Id_producto, Nombre, Precio, Stock, Disponibilidad, Eliminado FROM productos WHERE (Nombre LIKE '%" + dato + "%' OR Precio LIKE '%" + dato + "%' OR Stock LIKE '%" + dato + "%' OR Disponibilidad LIKE '%" + dato + "%)  AND Eliminado = 0 ORDER BY Stock ASC";
             }
 
             try
@@ -91,5 +91,32 @@ namespace Proyectofinal_2._0
 
             return bandera;
         }
+
+        public bool eliminarLogico(int idProducto)
+        {
+            bool bandera = false;
+
+            string sql = "UPDATE productos SET Eliminado = 1 WHERE Id_producto = @idProducto";
+
+            try
+            {
+                using (MySqlConnection conexionBD = base.conexion())
+                {
+                    conexionBD.Open();
+                    MySqlCommand comando = new MySqlCommand(sql, conexionBD);
+                    comando.Parameters.AddWithValue("@idProducto", idProducto);
+                    comando.ExecuteNonQuery();
+                    bandera = true;
+                }
+            }
+            catch (MySqlException ex)
+            {
+                Console.WriteLine(ex.Message.ToString());
+                bandera = false;
+            }
+
+            return bandera;
+        }
+
     }
 }

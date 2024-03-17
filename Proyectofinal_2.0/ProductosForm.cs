@@ -63,7 +63,7 @@ namespace Proyectofinal_2._0
             CBoxEstado.Text = "";
         }
 
-     
+
         private void cargarTabla(string dato)
         {
             List<Productos> lista = new List<Productos>();
@@ -103,5 +103,48 @@ namespace Proyectofinal_2._0
         {
 
         }
+
+        private void ProductosForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void adminAddProducts_importBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtIdProducto_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                int idProducto = Convert.ToInt32(dataGridView1.CurrentRow.Cells[0].Value);
+
+                Ctrl_Producto controlador = new Ctrl_Producto();
+                bool eliminado = controlador.eliminarLogico(idProducto);
+
+                if (eliminado)
+                {
+                    MessageBox.Show("Usuario eliminado correctamente");
+
+                    // Actualizar el DataGridView para reflejar el cambio de estado
+                    cargarTabla(null);
+                }
+                else
+                {
+                    MessageBox.Show("Error al eliminar usuario");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Seleccione un usuario para eliminar");
+            }
+        }
     }
 }
+

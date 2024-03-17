@@ -36,7 +36,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(388, 313);
+            this.label1.Location = new System.Drawing.Point(233, 257);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(690, 38);
             this.label1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             this.close.AutoSize = true;
             this.close.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.close.Location = new System.Drawing.Point(1358, 59);
+            this.close.Location = new System.Drawing.Point(983, 72);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(22, 23);
             this.close.TabIndex = 20;
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1500, 780);
+            this.ClientSize = new System.Drawing.Size(1248, 745);
             this.Controls.Add(this.close);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
